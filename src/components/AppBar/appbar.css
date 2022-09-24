@@ -1,0 +1,9 @@
+.navlink{
+    text-decoration: none;
+}
+.css-i9fmh8-MuiBackdrop-root-MuiModal-backdrop {
+    background-color: rgba(0, 0, 0, 0.2)!important;
+}
+.fav-li{
+    display: flex;
+}
